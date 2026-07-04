@@ -1,0 +1,501 @@
+﻿id_cliente;nome;segmento;profissao;renda_mensal;score_credito;estado;data_nascimento;data_cadastro
+1;Henrique Peixoto;Premium;Profissional Liberal;16800,94;757;SP;1964-08-06;2023-10-17
+2;Beatriz Paiva;Básico;Servidor Público;2180,99;316;SP;1969-10-22;2021-04-21
+3;Anderson Dias;Básico;Empresário;1397,68;579;MG;1980-02-24;2023-04-21
+4;Mariana Rocha;Básico;Servidor Público;2517,61;381;GO;1975-04-06;2021-07-23
+5;Camila Almeida;Middle;Autônomo;3511,05;647;SP;1998-01-06;2021-12-05
+6;Bruno Machado;Middle;Servidor Público;6648,66;687;SP;1976-12-23;2020-06-10
+7;Claudia Lopes;Middle;Profissional Liberal;6092,6;642;PR;1991-08-09;2020-05-22
+8;José Oliveira;Básico;Autônomo;2970,44;419;MT;1977-01-18;2021-07-23
+9;Tatiana Pinto;Básico;Autônomo;1325,31;481;SP;1971-12-23;2023-12-08
+10;Leticia Farias;Básico;Empresário;2269,96;573;DF;1967-05-01;2022-08-04
+11;Eduardo Freitas;Middle;Profissional Liberal;6440,81;606;BA;1997-10-22;2024-04-22
+12;Isabela Neves;Premium;Servidor Público;33761,47;802;RJ;1969-06-18;2023-03-07
+13;Sabrina Tavares;Middle;Profissional Liberal;5496,16;714;MG;1971-11-18;2020-10-12
+14;Luciana Barbosa;Básico;Empresário;1525,48;519;PA;1977-11-30;2022-01-11
+15;Rafael Gomes;PJ;CLT - Privado;45666,84;623;CE;1998-08-17;2020-08-12
+16;Camila Almeida 1;Básico;Profissional Liberal;1844,32;332;MG;1986-09-24;2022-08-16
+17;Carla Melo;Middle;Empresário;7303,9;552;BA;1965-02-19;2023-10-28
+18;Marcelo Moraes;Básico;Profissional Liberal;1680,35;450;MG;1980-05-08;2020-01-07
+19;Vinicius Siqueira;Básico;Autônomo;2943,78;391;RS;1964-10-09;2024-11-17
+20;Henrique Peixoto 1;Middle;Profissional Liberal;5538,31;600;SP;1994-03-15;2020-11-26
+21;Marcelo Moraes 1;PJ;Empresário;74294,54;753;RJ;1960-11-15;2020-08-17
+22;Vanessa Correia;Básico;Autônomo;1478,9;423;AM;1963-07-14;2020-06-24
+23;Vinicius Siqueira 1;Middle;Servidor Público;7889,92;686;CE;1965-10-04;2023-09-13
+24;Leandro Monteiro;PJ;CLT - Privado;28553,96;823;SC;1969-07-02;2023-01-09
+25;Caio Rezende;Básico;CLT - Privado;2425,9;504;RO;1989-02-24;2022-02-03
+26;Daniel Cavalcanti;Básico;Aposentado;1242,01;415;SP;1960-12-10;2023-04-19
+27;Claudia Lopes 1;Middle;CLT - Privado;3035,95;731;SC;1970-04-08;2020-05-18
+28;José Oliveira 1;Básico;Servidor Público;2028,31;442;BA;1969-08-11;2023-01-09
+29;Roberto Rodrigues;Básico;Empresário;2152,42;424;PE;1996-03-22;2022-04-13
+30;Ricardo Martins;Premium;Profissional Liberal;21793,64;808;MG;1998-10-01;2024-02-02
+31;Ana Souza;Básico;Profissional Liberal;1196,84;506;DF;1995-11-29;2024-10-30
+32;Paulo Costa;Middle;CLT - Privado;5681,43;585;MG;1972-06-29;2022-08-05
+33;Luciana Barbosa 1;Básico;Servidor Público;1886,26;350;SP;1984-03-31;2024-09-08
+34;Carlos Silva;PJ;CLT - Privado;21641,78;724;RS;1998-10-14;2022-04-01
+35;Ana Souza 1;Middle;Servidor Público;7926,54;617;AL;1995-03-21;2022-07-20
+36;Alexandre Cardoso;Middle;Profissional Liberal;7977,11;692;BA;1981-10-30;2020-11-13
+37;Ricardo Martins 1;Middle;Servidor Público;5895,9;688;SP;1974-01-25;2020-04-27
+38;Ana Souza 2;Básico;Empresário;2838,77;571;SP;1982-10-12;2020-06-13
+39;Patricia Carvalho;Premium;Servidor Público;29606,8;760;MG;1999-12-08;2023-03-12
+40;Luciana Barbosa 2;Básico;Servidor Público;2238,76;514;BA;1985-05-09;2022-12-06
+41;Lucas Teixeira;PJ;CLT - Privado;56880,82;680;RJ;1977-10-02;2020-09-25
+42;Gustavo Duarte;Básico;Aposentado;1632,35;337;SP;1987-11-12;2023-02-27
+43;Paulo Costa 1;Premium;CLT - Privado;24188,31;733;AL;1999-07-07;2020-05-20
+44;Luciana Barbosa 3;Middle;CLT - Privado;5190,92;689;GO;1987-06-09;2024-07-10
+45;Natalia Campos;Middle;Profissional Liberal;7085,52;626;AL;1964-08-24;2024-12-03
+46;Roberto Rodrigues 1;Middle;Servidor Público;6712,08;589;RJ;1987-02-17;2021-03-07
+47;Sabrina Tavares 1;Middle;Profissional Liberal;6171,19;617;RS;1971-04-07;2024-09-28
+48;Ana Souza 3;Premium;Aposentado;34539,14;711;SP;1994-08-04;2020-09-24
+49;Henrique Peixoto 2;PJ;CLT - Privado;61886,16;741;GO;1985-02-27;2020-01-20
+50;Juliana Ferreira;Premium;Profissional Liberal;36925,71;839;SP;1976-07-24;2023-04-07
+51;Claudia Lopes 2;Premium;CLT - Privado;9338,52;793;PA;1995-09-17;2024-10-28
+52;José Oliveira 2;Básico;CLT - Privado;2364,13;352;MG;1985-02-11;2024-12-15
+53;Thiago Miranda;PJ;Profissional Liberal;20818,73;838;RJ;1967-04-16;2024-06-26
+54;Patricia Carvalho 1;Básico;Servidor Público;1358,72;470;CE;1978-06-20;2024-06-30
+55;Gustavo Duarte 1;Básico;CLT - Privado;1533,61;355;MG;1961-09-26;2024-10-24
+56;Leandro Monteiro 1;Middle;Aposentado;4748,29;608;SP;1989-08-09;2021-01-30
+57;Priscila Azevedo;Middle;Servidor Público;7834,45;621;MG;1982-11-07;2022-03-29
+58;Leticia Farias 1;PJ;Empresário;33180,49;607;SP;1971-09-19;2020-12-31
+59;Aline Vieira;PJ;Autônomo;12678,0;752;MG;1992-09-05;2024-05-29
+60;Lucas Teixeira 1;Middle;Empresário;3578,23;697;SP;1961-12-28;2023-12-22
+61;Renata Castro;Premium;Empresário;29979,43;889;DF;1968-11-02;2022-01-15
+62;Renata Castro 1;Premium;Profissional Liberal;37464,67;859;RJ;1998-01-14;2020-09-12
+63;Vinicius Siqueira 2;PJ;Empresário;31649,93;704;RJ;1991-04-11;2021-08-28
+64;Claudia Lopes 3;Premium;Aposentado;29277,74;797;BA;2000-06-30;2020-12-22
+65;Roberta Andrade;Básico;Aposentado;2095,87;300;RJ;1969-06-05;2022-05-30
+66;Aline Vieira 1;Básico;Autônomo;1929,98;526;BA;1982-12-06;2022-08-27
+67;Beatriz Paiva 1;Middle;Servidor Público;4418,93;719;SC;1975-01-13;2020-07-10
+68;Caio Rezende 1;Middle;Autônomo;4123,2;600;SP;1962-01-27;2021-05-16
+69;Leandro Monteiro 2;Básico;Servidor Público;1910,83;399;GO;1977-03-23;2022-10-09
+70;Priscila Azevedo 1;Middle;Profissional Liberal;6438,11;742;MT;1999-09-20;2020-08-06
+71;Isabela Neves 1;Middle;CLT - Privado;7020,55;728;RS;1962-04-02;2023-02-15
+72;Luciana Barbosa 4;PJ;Servidor Público;41952,33;805;RS;1983-10-29;2023-02-18
+73;Bruno Machado 1;Middle;Aposentado;6063,26;734;AM;1979-02-21;2024-08-28
+74;Claudia Lopes 4;Middle;CLT - Privado;6718,28;671;MG;1993-09-21;2021-05-21
+75;Henrique Peixoto 3;Middle;Empresário;5422,99;611;RJ;1963-06-23;2024-01-01
+76;Alexandre Cardoso 1;Middle;Autônomo;4598,55;688;SP;1966-10-07;2021-04-18
+77;Eduardo Freitas 1;Básico;Profissional Liberal;1427,91;512;MG;1984-05-04;2022-08-12
+78;Thiago Miranda 1;Premium;Aposentado;20463,26;897;PR;1991-03-14;2020-02-10
+79;Caio Rezende 2;Básico;Aposentado;1011,79;480;RJ;1977-06-29;2024-10-13
+80;Thiago Miranda 2;Middle;Profissional Liberal;5730,66;704;PA;1981-11-25;2021-03-25
+81;Mariana Rocha 1;Middle;Servidor Público;4944,29;721;BA;1978-02-19;2024-01-23
+82;Marcos Nascimento;Básico;CLT - Privado;2961,44;573;SP;1977-09-03;2023-04-27
+83;Diego Ramos;Básico;Servidor Público;2285,5;369;MT;1968-02-25;2020-04-12
+84;Fernando Ribeiro;Middle;CLT - Privado;5273,5;636;CE;1977-01-02;2021-07-23
+85;Caio Rezende 3;PJ;Aposentado;27659,01;620;RS;1993-08-07;2023-01-09
+86;Ana Souza 4;PJ;Autônomo;25695,55;617;CE;1989-03-27;2020-03-23
+87;Caio Rezende 4;Premium;CLT - Privado;14379,54;705;SC;1970-09-13;2020-09-15
+88;Leandro Monteiro 3;Básico;Empresário;2895,51;538;GO;1994-05-26;2022-01-25
+89;Marcos Nascimento 1;Básico;Profissional Liberal;2436,71;383;MA;1964-11-06;2023-03-31
+90;Maria Santos;PJ;Empresário;57414,31;845;MG;1992-01-27;2021-02-10
+91;Pedro Lima;Básico;Profissional Liberal;1485,7;454;MS;1986-12-07;2024-07-07
+92;Juliana Ferreira 1;Básico;Empresário;2565,27;477;RS;1989-09-03;2022-01-28
+93;Pedro Lima 1;Middle;Autônomo;3063,26;657;ES;1964-09-25;2022-06-06
+94;Vanessa Correia 1;Básico;Aposentado;2414,62;522;SP;1983-05-28;2023-08-25
+95;Mariana Rocha 2;Básico;Empresário;2549,28;538;MG;1992-10-16;2023-04-28
+96;Mariana Rocha 3;Middle;CLT - Privado;7153,66;572;RJ;1980-03-21;2021-05-14
+97;Caio Rezende 5;Middle;Empresário;6340,94;636;SP;1998-03-04;2021-10-27
+98;Patricia Carvalho 2;Middle;Autônomo;6989,16;637;RJ;1986-09-28;2023-12-07
+99;Mariana Rocha 4;Básico;Empresário;2896,13;343;RJ;1978-03-25;2022-09-27
+100;Claudia Lopes 5;Básico;Profissional Liberal;1952,19;551;MG;1960-10-09;2020-07-09
+101;Alexandre Cardoso 2;Middle;Profissional Liberal;4216,53;719;PR;1981-03-24;2023-02-07
+102;Carla Melo 1;Middle;Profissional Liberal;5751,94;640;GO;1972-02-25;2021-09-19
+103;Fernando Ribeiro 1;Middle;Profissional Liberal;3962,92;580;DF;1994-03-10;2023-11-14
+104;Patricia Carvalho 3;Middle;Profissional Liberal;5420,99;735;PR;1994-02-06;2022-12-10
+105;Bruno Machado 2;Middle;Servidor Público;7163,14;625;RJ;1968-01-18;2021-09-11
+106;Carlos Silva 1;Básico;CLT - Privado;1548,62;327;PR;1991-04-14;2020-09-15
+107;Henrique Peixoto 4;Básico;Aposentado;1205,18;306;PR;1981-01-20;2022-09-07
+108;Daniel Cavalcanti 1;Middle;Servidor Público;4262,39;672;SP;1962-12-06;2022-03-31
+109;Michelle Cunha;Premium;Profissional Liberal;29966,43;738;SP;1985-03-31;2021-09-14
+110;Fernanda Pereira;PJ;Servidor Público;49065,11;706;SC;1995-06-21;2023-06-20
+111;Rafael Gomes 1;Básico;Aposentado;1901,03;526;RJ;1986-05-26;2022-05-28
+112;Cristina Mendes;Básico;Servidor Público;2219,26;350;PB;1969-04-27;2023-07-05
+113;Bruna Araújo;Middle;Servidor Público;3785,29;594;PR;1967-01-08;2020-01-06
+114;Thiago Miranda 3;Middle;Empresário;5349,56;558;RJ;1991-09-17;2021-08-02
+115;Rodrigo Batista;Básico;Servidor Público;2374,77;435;PE;1988-01-14;2023-04-22
+116;Gustavo Duarte 2;Básico;CLT - Privado;1850,28;578;SP;1966-09-07;2021-06-28
+117;Camila Almeida 2;Premium;CLT - Privado;33364,11;852;DF;1985-07-13;2021-08-14
+118;Daniel Cavalcanti 2;Premium;Profissional Liberal;17730,92;803;PB;1982-06-13;2023-01-10
+119;Michelle Cunha 1;Middle;Empresário;3199,3;660;DF;1987-01-30;2021-05-27
+120;Maria Santos 1;Premium;Profissional Liberal;34750,68;847;PR;1960-12-05;2024-04-15
+121;Leticia Farias 2;Básico;Empresário;1080,46;389;RS;1989-03-23;2022-06-24
+122;Mariana Rocha 5;Middle;Empresário;5179,42;675;MA;1981-01-30;2021-12-13
+123;Thiago Miranda 4;Middle;Profissional Liberal;3523,0;591;RJ;1991-02-12;2022-10-11
+124;Alexandre Cardoso 3;Básico;Aposentado;2627,13;318;MG;1974-02-09;2021-05-31
+125;Lucas Teixeira 2;Premium;Aposentado;35677,14;700;BA;1984-05-03;2022-08-04
+126;Thiago Miranda 5;Premium;Empresário;19576,94;893;RS;1979-10-30;2024-04-05
+127;Ana Souza 5;Middle;Empresário;3655,07;623;MG;1991-04-28;2022-09-19
+128;Juliana Ferreira 2;Premium;Profissional Liberal;27483,89;761;GO;1973-12-09;2023-02-02
+129;Carlos Silva 2;Básico;Servidor Público;1449,4;358;MG;1965-04-08;2023-08-19
+130;Camila Almeida 3;Middle;Profissional Liberal;4459,31;730;RJ;1997-06-11;2022-09-15
+131;Leandro Monteiro 4;Middle;Empresário;3723,21;598;AL;1982-10-19;2024-03-08
+132;Roberto Rodrigues 2;Básico;Autônomo;2545,35;512;RJ;1995-05-02;2022-11-05
+133;Mariana Rocha 6;Básico;Autônomo;2452,1;550;MT;1980-01-12;2023-01-08
+134;Leandro Monteiro 5;Middle;Empresário;6814,36;646;MG;1974-06-08;2024-11-15
+135;Ricardo Martins 2;PJ;CLT - Privado;50025,83;659;MT;1978-06-05;2020-03-30
+136;Lucas Teixeira 3;Básico;Profissional Liberal;2826,86;495;MG;1989-10-08;2024-06-10
+137;Natalia Campos 1;PJ;Aposentado;77537,71;632;RS;1986-06-22;2021-11-10
+138;Paulo Costa 2;Básico;Aposentado;1199,42;533;SP;1966-06-19;2022-04-19
+139;Natalia Campos 2;PJ;Servidor Público;42864,34;848;RJ;1987-12-16;2023-11-19
+140;Priscila Azevedo 2;Básico;Autônomo;2704,68;573;MG;1974-03-16;2023-07-07
+141;Sabrina Tavares 2;Básico;Aposentado;2744,77;318;SC;1970-07-13;2023-07-16
+142;Leticia Farias 3;PJ;CLT - Privado;62273,65;711;MA;1994-02-08;2023-07-21
+143;Sabrina Tavares 3;Básico;Aposentado;1332,73;453;PA;1962-01-23;2021-10-26
+144;Ana Souza 6;Middle;Autônomo;5153,43;612;RS;1985-05-21;2023-10-28
+145;Patricia Carvalho 4;Middle;Servidor Público;6047,46;647;SC;1970-10-20;2022-10-16
+146;Aline Vieira 2;Premium;Aposentado;28412,95;817;RJ;1960-06-02;2024-07-05
+147;Tatiana Pinto 1;PJ;Profissional Liberal;48261,87;618;MG;1975-07-02;2023-04-18
+148;Cristina Mendes 1;Básico;Aposentado;2380,63;533;MS;1968-12-07;2022-02-26
+149;Leandro Monteiro 6;Premium;Aposentado;26301,53;847;RJ;1991-05-14;2021-08-27
+150;Maria Santos 2;PJ;Profissional Liberal;37706,4;602;PR;1990-10-06;2024-05-12
+151;Beatriz Paiva 2;PJ;Empresário;62162,05;813;PA;1972-11-02;2024-05-07
+152;Rafael Gomes 2;Básico;Autônomo;1438,01;397;SC;1990-05-27;2024-03-27
+153;Vinicius Siqueira 3;Básico;Profissional Liberal;2676,67;349;PA;1988-12-28;2020-03-21
+154;Cristina Mendes 2;Básico;Servidor Público;2159,15;367;SP;1973-03-28;2021-10-31
+155;Beatriz Paiva 3;Middle;CLT - Privado;3660,8;688;AM;1976-05-30;2022-12-23
+156;Anderson Dias 1;PJ;CLT - Privado;27987,91;811;PB;1996-03-05;2021-08-27
+157;Beatriz Paiva 4;Básico;Servidor Público;1936,66;338;SP;1970-02-13;2024-10-27
+158;Leticia Farias 4;Básico;Aposentado;2934,54;487;SP;1977-09-12;2020-01-29
+159;Fernando Ribeiro 2;Middle;Aposentado;4842,93;741;BA;1986-03-22;2022-02-19
+160;Henrique Peixoto 5;PJ;Servidor Público;57238,56;720;SP;1999-08-31;2023-02-23
+161;Lucas Teixeira 4;PJ;CLT - Privado;55335,67;762;ES;2000-10-16;2023-12-06
+162;Cristina Mendes 3;Básico;Servidor Público;1279,55;319;RJ;1982-02-05;2020-08-25
+163;Paulo Costa 3;Middle;Empresário;3678,32;666;MG;1993-05-02;2023-11-27
+164;Marcelo Moraes 2;Middle;Profissional Liberal;6633,0;656;BA;1997-05-25;2022-09-29
+165;Roberta Andrade 1;Middle;Autônomo;3163,58;644;SP;1979-12-12;2021-04-28
+166;Vanessa Correia 2;Premium;Profissional Liberal;19754,72;865;MG;1977-11-10;2021-07-19
+167;Ricardo Martins 3;PJ;Aposentado;16417,14;654;SC;1986-10-14;2020-02-13
+168;Ana Souza 7;Básico;CLT - Privado;2977,64;405;SP;1994-04-28;2023-02-09
+169;Bruna Araújo 1;Básico;CLT - Privado;1657,12;375;PE;1986-09-25;2020-01-06
+170;Mariana Rocha 7;Básico;CLT - Privado;2975,05;576;RJ;1967-10-29;2020-08-13
+171;Gustavo Duarte 3;Básico;CLT - Privado;1029,72;421;PR;1960-09-15;2020-12-22
+172;Fernando Ribeiro 3;Premium;Profissional Liberal;21470,74;729;DF;1981-05-12;2022-07-07
+173;Isabela Neves 2;Middle;Empresário;3545,27;678;SP;1987-08-04;2020-03-29
+174;Vinicius Siqueira 4;Básico;Profissional Liberal;2042,9;534;SC;1961-05-25;2020-05-04
+175;Leandro Monteiro 7;Básico;Aposentado;2372,19;551;GO;1979-11-24;2020-05-30
+176;Fernanda Pereira 1;Middle;CLT - Privado;3328,41;620;SC;1986-04-04;2023-01-28
+177;Sabrina Tavares 4;Middle;Empresário;5652,78;666;RS;1979-04-19;2020-07-22
+178;Rodrigo Batista 1;Premium;Profissional Liberal;28829,33;896;PR;1998-10-28;2021-03-16
+179;Renata Castro 2;Middle;CLT - Privado;5069,07;666;MG;1992-09-22;2020-07-13
+180;Lucas Teixeira 5;Middle;Profissional Liberal;4274,45;589;BA;1981-04-10;2020-05-17
+181;Fernanda Pereira 2;Básico;Servidor Público;1863,75;490;PE;1984-12-15;2020-05-02
+182;Aline Vieira 3;PJ;Empresário;33075,22;631;MG;1999-03-10;2023-09-24
+183;Caio Rezende 6;Middle;Profissional Liberal;3257,23;623;SC;1975-10-10;2020-07-31
+184;Diego Ramos 1;Middle;CLT - Privado;6283,68;607;MS;1975-09-15;2024-09-27
+185;Claudia Lopes 6;Middle;Autônomo;5870,5;659;MS;1994-06-04;2024-08-03
+186;Roberta Andrade 2;Básico;Profissional Liberal;2113,48;436;SP;1972-04-04;2023-12-10
+187;Caio Rezende 7;Middle;Autônomo;4755,12;596;MT;1985-05-27;2023-09-08
+188;Priscila Azevedo 3;Premium;Profissional Liberal;28261,5;707;SP;1983-10-18;2021-03-16
+189;Eduardo Freitas 2;Middle;Autônomo;3787,05;629;GO;1994-11-05;2023-03-08
+190;Bruno Machado 3;Premium;Servidor Público;12978,56;893;SC;1990-03-26;2020-06-16
+191;Mariana Rocha 8;Middle;Aposentado;5428,31;663;MG;1969-09-01;2024-03-26
+192;Anderson Dias 2;Premium;Aposentado;11548,47;873;BA;1981-10-29;2022-12-15
+193;Gustavo Duarte 4;Middle;CLT - Privado;4976,32;703;SP;1969-03-03;2021-09-09
+194;Bruna Araújo 2;Básico;Autônomo;1578,89;361;SP;1993-07-05;2022-05-31
+195;Patricia Carvalho 5;Premium;Empresário;30517,48;828;PR;1989-12-19;2024-07-09
+196;Rodrigo Nunes;Premium;Profissional Liberal;9353,67;704;MG;1963-06-29;2024-10-31
+197;Lucas Teixeira 6;Básico;Empresário;1808,85;513;RJ;1978-03-03;2020-02-12
+198;Lucas Teixeira 7;Middle;Empresário;5300,48;726;AL;1963-12-14;2022-06-13
+199;Paulo Costa 4;Middle;Empresário;5002,25;570;MG;1973-12-01;2024-03-07
+200;Larissa Moreira;Middle;CLT - Privado;3381,9;712;SP;1982-11-16;2021-02-01
+201;Isabela Neves 3;Middle;Profissional Liberal;7791,12;715;ES;1970-08-07;2020-07-29
+202;Camila Almeida 4;Middle;CLT - Privado;6011,99;744;CE;1963-05-19;2020-12-28
+203;Isabela Neves 4;Básico;Aposentado;2508,89;529;BA;1999-07-26;2023-03-02
+204;Natalia Campos 3;Básico;Empresário;1646,42;461;SP;1963-01-23;2022-08-18
+205;Daniel Cavalcanti 3;Básico;Autônomo;2182,84;480;RS;1973-12-03;2022-08-03
+206;Daniel Cavalcanti 4;Premium;Autônomo;34614,29;719;SC;1998-05-14;2020-07-03
+207;Roberta Andrade 3;Básico;Aposentado;1925,42;321;MG;1996-04-29;2023-03-16
+208;Natalia Campos 4;Middle;Empresário;5378,15;588;PB;1980-03-17;2020-07-30
+209;Larissa Moreira 1;PJ;Servidor Público;45318,43;644;SP;1991-09-28;2022-06-15
+210;Daniel Cavalcanti 5;Middle;Empresário;3793,73;645;AL;1977-05-18;2022-04-17
+211;Isabela Neves 5;Middle;Empresário;3261,83;711;SC;1962-12-15;2021-11-06
+212;Paulo Costa 5;Básico;Aposentado;1568,29;376;RJ;1986-02-20;2023-09-21
+213;Camila Almeida 5;PJ;Autônomo;77738,76;778;BA;1965-10-13;2023-05-03
+214;Sabrina Tavares 5;PJ;Autônomo;49124,54;764;PE;1996-06-23;2020-09-18
+215;Gustavo Duarte 5;Básico;Profissional Liberal;2994,33;569;SP;1990-01-27;2022-05-17
+216;Anderson Dias 3;Middle;Autônomo;4544,33;604;RJ;1994-05-14;2022-09-22
+217;Ricardo Martins 4;Middle;CLT - Privado;3774,73;625;MS;1964-07-15;2022-11-05
+218;Isabela Neves 6;Middle;Profissional Liberal;7418,41;559;BA;1999-04-24;2024-04-18
+219;Roberta Andrade 4;Premium;Aposentado;12936,09;746;ES;1994-08-03;2023-07-03
+220;Marcos Nascimento 2;Básico;Servidor Público;1821,72;421;MA;1987-05-22;2021-08-06
+221;Caio Rezende 8;Básico;Aposentado;1468,01;422;RJ;1996-04-09;2024-05-25
+222;Leandro Monteiro 8;PJ;CLT - Privado;35748,87;842;PR;1979-10-06;2022-08-03
+223;Isabela Neves 7;Middle;Aposentado;5514,53;657;MA;1996-08-22;2021-02-12
+224;Bruno Machado 4;Premium;Autônomo;9669,75;823;MT;1984-11-15;2020-07-29
+225;Sabrina Tavares 6;Básico;Servidor Público;1570,13;382;RJ;2000-08-10;2022-11-17
+226;Camila Almeida 6;Básico;Servidor Público;2892,83;413;ES;1999-09-06;2021-12-16
+227;Maria Santos 3;Middle;Aposentado;5510,04;610;MG;1963-08-30;2022-02-06
+228;Rafael Gomes 3;Premium;Servidor Público;34853,64;866;RJ;1966-07-20;2020-10-08
+229;José Oliveira 3;Middle;Aposentado;6480,36;585;CE;1981-01-15;2022-07-07
+230;Roberta Andrade 5;Premium;Servidor Público;8608,12;755;ES;1984-08-13;2024-01-29
+231;Bruno Machado 5;Middle;Servidor Público;6880,86;610;RJ;1962-02-21;2021-05-03
+232;Thiago Miranda 6;Básico;Empresário;1914,23;356;MS;1982-06-03;2023-05-07
+233;Marcelo Moraes 3;Premium;Empresário;26401,52;883;SP;1979-04-03;2020-01-04
+234;Roberta Andrade 6;Middle;Empresário;5082,84;720;BA;1983-06-25;2022-01-08
+235;Pedro Lima 2;PJ;Empresário;45512,94;729;PR;1977-07-07;2024-11-23
+236;Leandro Monteiro 9;Premium;Aposentado;39393,26;764;DF;1976-01-07;2024-06-02
+237;Pedro Lima 3;Middle;Profissional Liberal;6285,52;576;CE;1992-12-23;2024-03-29
+238;Larissa Moreira 2;Premium;Autônomo;25472,44;864;SP;1994-12-13;2023-11-03
+239;Tatiana Pinto 2;PJ;Aposentado;54221,51;807;SP;1992-02-13;2024-05-08
+240;Tatiana Pinto 3;Premium;CLT - Privado;9401,8;751;AM;1974-02-26;2021-09-27
+241;Anderson Dias 4;Middle;Empresário;5367,0;559;CE;1968-07-28;2021-08-08
+242;Rodrigo Nunes 1;Básico;Servidor Público;2731,6;469;RJ;1995-11-09;2022-01-23
+243;Renata Castro 3;Básico;Profissional Liberal;1879,47;497;RJ;1968-05-18;2022-10-13
+244;Rodrigo Batista 2;Middle;Empresário;4333,6;571;DF;1963-07-17;2022-05-31
+245;Bruno Machado 6;PJ;CLT - Privado;48183,21;682;SP;1974-09-16;2023-09-15
+246;Alexandre Cardoso 4;Middle;Empresário;6588,31;592;BA;1975-10-08;2022-07-04
+247;José Oliveira 4;Básico;Autônomo;2229,7;522;RJ;1995-07-03;2020-04-27
+248;Pedro Lima 4;Básico;Aposentado;1726,62;381;PB;1966-05-28;2024-10-04
+249;Bruno Machado 7;Básico;Aposentado;1069,6;334;RJ;1988-12-09;2022-01-20
+250;Vanessa Correia 3;Middle;Empresário;3161,93;589;BA;1976-08-21;2022-01-31
+251;Daniel Cavalcanti 6;Básico;Empresário;1275,39;487;MG;1989-02-19;2021-07-24
+252;Luciana Barbosa 5;PJ;Servidor Público;61497,24;727;RS;2000-12-23;2023-02-24
+253;Juliana Ferreira 3;Middle;Autônomo;6520,19;604;RO;1972-10-22;2023-11-22
+254;Michelle Cunha 2;Middle;CLT - Privado;7264,13;665;SP;1991-12-31;2022-06-30
+255;Fernanda Pereira 3;Básico;Autônomo;2335,68;333;PR;1973-01-09;2024-12-30
+256;Cristina Mendes 4;Básico;Profissional Liberal;2419,13;389;PE;1982-10-27;2021-04-04
+257;Juliana Ferreira 4;PJ;CLT - Privado;26571,53;726;SP;1984-11-07;2023-03-18
+258;Vanessa Correia 4;Middle;Empresário;3648,86;572;SP;1977-11-10;2024-01-08
+259;Vinicius Siqueira 5;Middle;Aposentado;6845,82;697;SP;1974-03-22;2023-08-08
+260;Pedro Lima 5;Middle;Profissional Liberal;5586,8;582;AM;1994-12-31;2023-02-03
+261;Henrique Peixoto 6;Básico;CLT - Privado;1865,24;328;ES;1983-03-29;2020-11-09
+262;Cristina Mendes 5;Middle;Autônomo;7673,69;607;RJ;1983-04-11;2021-08-04
+263;Fernanda Pereira 4;Middle;Profissional Liberal;7781,76;620;SP;1973-08-01;2023-06-12
+264;Marcelo Moraes 4;Premium;Profissional Liberal;13396,35;848;SP;1989-07-19;2023-07-02
+265;Vinicius Siqueira 6;PJ;Autônomo;68977,1;744;SP;1998-09-30;2020-02-28
+266;Fernanda Pereira 5;Premium;Profissional Liberal;32672,72;767;BA;1994-05-27;2023-03-17
+267;Thiago Miranda 7;Básico;Servidor Público;1996,08;579;RJ;1973-07-20;2022-09-16
+268;Luciana Barbosa 6;Básico;Profissional Liberal;1812,19;532;SP;1962-09-08;2020-11-19
+269;Daniel Cavalcanti 7;Middle;Aposentado;4020,12;705;SP;1998-08-23;2024-01-11
+270;Lucas Teixeira 8;Básico;Autônomo;2950,75;366;CE;1983-02-06;2023-02-24
+271;Paulo Costa 6;Middle;Aposentado;3612,61;665;RJ;1964-05-05;2020-04-13
+272;Alexandre Cardoso 5;PJ;Empresário;39269,43;846;MT;1967-03-01;2024-07-24
+273;Lucas Teixeira 9;PJ;Profissional Liberal;31890,04;795;SP;1983-02-02;2022-08-14
+274;Michelle Cunha 3;Básico;Aposentado;1046,35;501;RS;1970-10-19;2021-03-16
+275;Aline Vieira 4;Middle;Servidor Público;4406,78;702;AM;1989-05-07;2023-10-09
+276;Leandro Monteiro 10;Middle;Servidor Público;7235,86;660;SP;1971-11-12;2024-01-29
+277;Vanessa Correia 5;Básico;Autônomo;1090,48;326;PR;1968-09-24;2022-01-12
+278;Claudia Lopes 7;Middle;Aposentado;5521,28;745;PR;1997-01-07;2023-06-30
+279;Leticia Farias 5;Básico;CLT - Privado;2950,17;501;MG;1975-03-18;2023-02-16
+280;Vanessa Correia 6;Básico;CLT - Privado;2204,93;505;RS;1962-01-12;2020-03-20
+281;Roberto Rodrigues 3;Básico;Aposentado;2038,67;376;SC;1983-02-15;2020-10-13
+282;Lucas Teixeira 10;PJ;Autônomo;21375,14;757;DF;1973-06-03;2023-04-30
+283;Larissa Moreira 3;Middle;Empresário;5661,7;731;PR;1981-04-20;2024-07-28
+284;Maria Santos 4;Middle;Profissional Liberal;3548,02;656;PR;1995-09-28;2024-01-25
+285;Rodrigo Batista 3;Básico;Empresário;1949,18;416;GO;1986-03-05;2022-09-10
+286;Marcos Nascimento 3;Middle;Profissional Liberal;6098,68;647;SP;1990-07-15;2021-05-11
+287;José Oliveira 5;Básico;Profissional Liberal;1219,79;309;MG;1978-10-14;2020-11-06
+288;Thiago Miranda 8;Básico;Aposentado;2003,64;541;MT;1993-01-02;2024-01-29
+289;Ana Souza 8;Básico;Empresário;1414,68;466;RO;1981-06-16;2022-12-12
+290;Eduardo Freitas 3;Middle;CLT - Privado;5298,32;686;RJ;1975-11-22;2023-10-16
+291;Isabela Neves 8;Básico;Profissional Liberal;2286,62;435;SC;1968-08-16;2021-05-19
+292;Mariana Rocha 9;Básico;CLT - Privado;2882,97;452;CE;1991-08-15;2021-02-28
+293;Rodrigo Batista 4;Básico;Autônomo;1959,61;440;RJ;1985-09-21;2023-10-17
+294;Marcelo Moraes 5;Middle;Aposentado;7091,89;747;PE;1973-01-10;2020-03-27
+295;Alexandre Cardoso 6;PJ;Servidor Público;34245,45;713;BA;1993-07-10;2022-09-08
+296;Bruna Araújo 3;Middle;Empresário;4355,66;693;GO;1966-02-27;2020-08-11
+297;Roberta Andrade 7;Básico;CLT - Privado;1484,92;571;SP;1970-06-11;2020-04-17
+298;Paulo Costa 7;Middle;Profissional Liberal;5362,02;724;CE;1960-03-25;2023-02-01
+299;Marcos Nascimento 4;Middle;Aposentado;5387,24;601;CE;1972-11-19;2021-10-19
+300;Alexandre Cardoso 7;Básico;Servidor Público;2304,6;418;RS;1992-06-08;2024-10-07
+301;José Oliveira 6;PJ;CLT - Privado;39251,95;814;SP;1961-08-18;2024-09-08
+302;Priscila Azevedo 4;Básico;CLT - Privado;2873,22;448;AM;1960-05-31;2021-09-03
+303;Diego Ramos 2;Básico;Autônomo;1569,12;578;RS;1999-11-21;2020-10-01
+304;Anderson Dias 5;Middle;CLT - Privado;7044,07;634;SP;1980-08-01;2023-08-20
+305;Fernando Ribeiro 4;Básico;Servidor Público;2473,24;451;PR;1993-12-20;2021-01-30
+306;Patricia Carvalho 6;Básico;Profissional Liberal;2794,09;518;RS;1963-11-22;2022-03-31
+307;Gustavo Duarte 6;Premium;CLT - Privado;23278,53;763;SP;1977-03-16;2021-04-27
+308;Daniel Cavalcanti 8;Básico;Autônomo;1603,89;305;RJ;1976-02-16;2023-11-19
+309;Luciana Barbosa 7;Premium;Servidor Público;22892,64;740;MG;1982-07-17;2024-12-23
+310;Sabrina Tavares 7;Básico;Profissional Liberal;1234,83;451;MG;1969-11-27;2021-03-24
+311;Roberto Rodrigues 4;Middle;Aposentado;6738,67;705;MG;1991-06-27;2023-01-29
+312;Leandro Monteiro 11;Básico;Profissional Liberal;2651,21;426;BA;1986-09-22;2024-11-23
+313;Fernanda Pereira 6;Middle;Empresário;6518,83;569;PA;1965-01-12;2020-05-06
+314;Claudia Lopes 8;PJ;CLT - Privado;50089,12;638;SP;1998-04-30;2022-12-01
+315;Daniel Cavalcanti 9;Premium;CLT - Privado;30941,37;825;SP;1982-11-22;2022-07-01
+316;Ana Souza 9;Middle;Empresário;5077,12;694;SP;1980-09-27;2023-10-09
+317;Cristina Mendes 6;Básico;Aposentado;1508,91;301;DF;1985-12-10;2020-05-29
+318;José Oliveira 7;Middle;Profissional Liberal;3318,8;565;AL;1963-02-04;2022-08-24
+319;José Oliveira 8;Middle;CLT - Privado;6844,86;746;SC;1992-09-17;2023-08-15
+320;Thiago Miranda 9;Middle;Aposentado;5242,69;646;MG;1990-08-16;2023-09-17
+321;Marcelo Moraes 6;Premium;Autônomo;11796,26;837;MG;1965-09-17;2024-01-30
+322;Rafael Gomes 4;Básico;Servidor Público;2956,98;537;BA;1984-06-03;2022-05-18
+323;Marcelo Moraes 7;Middle;CLT - Privado;4237,56;638;SP;1968-06-15;2024-11-27
+324;Vinicius Siqueira 7;Básico;Servidor Público;2618,96;514;SC;1999-08-23;2024-12-25
+325;Maria Santos 5;Middle;Servidor Público;3504,48;558;MG;1990-02-22;2023-12-11
+326;Ana Souza 10;Middle;Servidor Público;5011,33;609;PR;1993-11-02;2024-11-03
+327;Isabela Neves 9;Premium;Empresário;39791,47;759;ES;1992-10-24;2023-03-25
+328;Lucas Teixeira 11;Básico;Profissional Liberal;2636,76;421;RJ;1966-06-05;2023-09-14
+329;Carla Melo 2;Middle;Autônomo;4375,77;692;PB;1999-06-18;2024-02-14
+330;Patricia Carvalho 7;Básico;Aposentado;2111,7;324;MA;1988-11-09;2023-10-06
+331;Eduardo Freitas 4;Básico;Autônomo;2392,62;509;SP;1976-11-19;2021-01-11
+332;Caio Rezende 9;Middle;CLT - Privado;7246,7;626;MT;1966-06-23;2024-07-08
+333;Tatiana Pinto 4;PJ;Empresário;38887,42;706;PR;1966-01-05;2022-03-06
+334;Luciana Barbosa 8;Middle;Autônomo;6233,53;665;MS;1964-02-23;2023-01-01
+335;Vinicius Siqueira 8;Básico;Servidor Público;1536,92;320;MT;1968-06-09;2024-07-05
+336;Caio Rezende 10;Básico;Profissional Liberal;2117,7;545;SP;2000-09-07;2021-11-12
+337;Cristina Mendes 7;PJ;Servidor Público;24826,54;648;MA;1965-04-06;2024-03-09
+338;Caio Rezende 11;Middle;CLT - Privado;6478,13;730;SP;1970-09-26;2023-02-04
+339;Lucas Teixeira 12;Básico;Aposentado;1932,5;483;RJ;1976-02-18;2022-11-16
+340;Michelle Cunha 4;Middle;Profissional Liberal;5347,45;631;PA;1976-08-17;2021-10-02
+341;Thiago Miranda 10;Premium;CLT - Privado;31720,08;704;RJ;1986-03-13;2023-04-01
+342;Vinicius Siqueira 9;Middle;CLT - Privado;3980,96;608;MG;1997-05-19;2021-05-18
+343;Michelle Cunha 5;Básico;Profissional Liberal;1675,13;550;MA;1988-10-13;2024-02-23
+344;Michelle Cunha 6;Middle;Profissional Liberal;6974,88;593;SP;1984-07-07;2022-09-27
+345;Patricia Carvalho 8;PJ;Empresário;79322,65;845;SP;1961-07-08;2024-09-14
+346;Pedro Lima 6;PJ;Profissional Liberal;13396,01;601;MG;1997-10-17;2023-07-15
+347;Rafael Gomes 5;Premium;CLT - Privado;8292,53;829;MG;1962-09-17;2023-06-19
+348;Henrique Peixoto 7;Básico;Empresário;2825,5;549;SP;1983-11-15;2023-02-03
+349;Thiago Miranda 11;Premium;Empresário;31110,17;837;MA;1960-10-07;2022-10-25
+350;Rodrigo Batista 5;Básico;CLT - Privado;1214,03;349;RS;1970-10-23;2021-01-28
+351;Roberta Andrade 8;Middle;Autônomo;4336,62;651;SP;1978-03-19;2022-07-29
+352;Diego Ramos 3;Middle;Profissional Liberal;4129,29;725;ES;1963-08-13;2023-08-31
+353;Natalia Campos 5;Básico;Servidor Público;1810,56;493;PR;1962-07-08;2023-07-28
+354;Carlos Silva 3;Básico;Servidor Público;1999,72;522;SC;1974-11-10;2023-03-04
+355;Paulo Costa 8;Básico;Servidor Público;1459,53;543;RJ;1963-05-03;2023-11-02
+356;Mariana Rocha 10;Básico;Empresário;2316,22;391;AL;1974-02-08;2020-02-02
+357;Bruna Araújo 4;Básico;Profissional Liberal;2641,8;339;RJ;1985-04-18;2021-05-07
+358;Diego Ramos 4;Básico;Aposentado;2354,07;576;RJ;1993-11-22;2024-02-23
+359;Roberto Rodrigues 5;Básico;Profissional Liberal;2448,33;556;DF;1975-07-07;2020-04-19
+360;Paulo Costa 9;Middle;Servidor Público;4702,96;746;SC;1986-09-19;2022-03-23
+361;Isabela Neves 10;Middle;Profissional Liberal;4366,64;665;RS;1975-12-17;2023-02-06
+362;Eduardo Freitas 5;Middle;Profissional Liberal;5929,38;647;SP;1987-10-01;2021-08-27
+363;Luciana Barbosa 9;Básico;Servidor Público;1535,94;494;GO;1988-06-07;2020-11-11
+364;Beatriz Paiva 5;Middle;Autônomo;3532,75;551;PB;1979-12-13;2022-01-07
+365;Caio Rezende 12;Middle;CLT - Privado;3436,49;660;MG;1984-11-18;2022-11-15
+366;Thiago Miranda 12;Premium;Servidor Público;19325,26;723;PR;1995-03-10;2021-10-26
+367;Eduardo Freitas 6;Premium;Aposentado;20409,59;721;DF;1985-02-05;2021-05-12
+368;Diego Ramos 5;Middle;Profissional Liberal;4903,66;585;RJ;1972-01-15;2022-10-06
+369;Camila Almeida 7;Premium;Aposentado;16830,78;776;RS;1963-06-14;2022-01-09
+370;Fernando Ribeiro 5;PJ;Profissional Liberal;53752,36;752;SC;1980-07-15;2020-08-07
+371;Roberto Rodrigues 6;Middle;Aposentado;4661,09;708;MG;1998-09-04;2021-11-05
+372;Daniel Cavalcanti 10;Middle;Profissional Liberal;7871,13;584;RJ;1987-01-22;2023-11-24
+373;Ricardo Martins 5;Middle;CLT - Privado;7822,87;631;RJ;1991-03-05;2023-07-20
+374;Michelle Cunha 7;PJ;CLT - Privado;32812,04;671;ES;1977-08-16;2022-01-17
+375;Juliana Ferreira 5;PJ;CLT - Privado;51455,89;739;SP;1994-06-07;2023-01-31
+376;Maria Santos 6;PJ;Aposentado;76008,24;653;MG;1973-01-25;2024-08-29
+377;Rodrigo Batista 6;Premium;Aposentado;29535,28;735;SC;1970-11-09;2021-06-01
+378;Gustavo Duarte 7;Middle;Aposentado;6945,38;568;MG;1986-10-27;2022-09-08
+379;Aline Vieira 5;Middle;Empresário;7617,48;727;MG;1961-08-25;2024-06-07
+380;Vanessa Correia 7;Básico;Empresário;2187,64;343;SP;1971-02-19;2023-09-08
+381;Gustavo Duarte 8;Middle;Profissional Liberal;6063,39;694;RO;1990-05-22;2023-08-17
+382;Priscila Azevedo 5;PJ;Autônomo;77600,17;710;SP;1964-06-03;2021-06-13
+383;Rafael Gomes 6;Middle;Empresário;5789,97;726;PR;1979-12-30;2022-02-05
+384;Priscila Azevedo 6;Middle;Profissional Liberal;5942,95;678;SP;1961-02-06;2022-09-15
+385;Paulo Costa 10;Middle;Servidor Público;3580,35;736;SP;1973-12-28;2021-12-03
+386;Tatiana Pinto 5;Básico;Empresário;1965,85;543;SP;1992-05-21;2023-11-27
+387;Daniel Cavalcanti 11;Middle;Autônomo;3223,42;731;SP;1998-02-02;2021-12-03
+388;Natalia Campos 6;Premium;CLT - Privado;37757,52;889;RJ;1967-10-29;2023-02-04
+389;Marcos Nascimento 5;Middle;Aposentado;7792,31;609;PE;1988-03-31;2021-01-12
+390;Patricia Carvalho 9;Básico;Aposentado;1791,16;401;MG;1979-04-08;2022-03-07
+391;Carlos Silva 4;Básico;CLT - Privado;1556,69;332;PR;1995-11-12;2024-11-20
+392;Marcelo Moraes 8;Middle;Autônomo;3985,37;579;RJ;1998-09-11;2022-09-29
+393;Carla Melo 3;PJ;Autônomo;51787,96;756;MG;1965-02-14;2021-12-13
+394;Rodrigo Nunes 2;Básico;Empresário;1345,06;452;AL;1986-06-22;2020-06-22
+395;Leticia Farias 6;Premium;Servidor Público;15634,33;729;SP;1991-02-08;2020-10-16
+396;Anderson Dias 6;Middle;Empresário;3689,34;648;MG;1981-10-30;2023-07-25
+397;Marcelo Moraes 9;Básico;Profissional Liberal;2861,39;388;PR;1981-12-18;2021-08-14
+398;Roberto Rodrigues 7;Middle;Aposentado;6097,05;641;PB;1981-09-26;2020-10-06
+399;Ricardo Martins 6;Básico;Empresário;2010,88;553;MG;1982-01-21;2022-05-01
+400;Sabrina Tavares 8;Básico;Aposentado;1334,51;315;PE;1969-11-22;2021-08-21
+401;José Oliveira 9;Middle;Empresário;4443,35;749;MG;1993-04-22;2024-05-01
+402;Isabela Neves 11;Middle;Empresário;3566,05;579;RJ;1984-05-12;2024-08-13
+403;Vanessa Correia 8;Middle;Servidor Público;6800,02;662;PR;1979-01-26;2020-07-28
+404;Beatriz Paiva 6;Básico;CLT - Privado;1595,42;316;MG;1975-08-21;2024-10-31
+405;Fernanda Pereira 7;Middle;Servidor Público;6878,16;610;SP;1993-02-01;2023-04-19
+406;Rodrigo Batista 7;Middle;Profissional Liberal;6051,31;659;SP;1966-03-31;2024-05-26
+407;Bruna Araújo 5;Básico;Servidor Público;2140,15;572;RJ;1984-03-02;2020-12-10
+408;Lucas Teixeira 13;PJ;Autônomo;30253,33;668;PB;1983-01-28;2023-10-23
+409;Paulo Costa 11;Premium;Aposentado;37400,6;770;MT;1965-09-09;2023-12-07
+410;Roberto Rodrigues 8;Middle;Profissional Liberal;4610,48;613;CE;1990-05-02;2022-03-15
+411;Michelle Cunha 8;Premium;Profissional Liberal;16598,95;806;MG;1963-05-22;2023-07-21
+412;Isabela Neves 12;Premium;Empresário;31993,68;877;AL;1976-07-21;2022-07-20
+413;Michelle Cunha 9;Middle;Servidor Público;7344,54;737;SP;1980-07-25;2023-07-24
+414;Gustavo Duarte 9;Básico;Servidor Público;2591,36;503;SP;1979-04-10;2024-08-16
+415;Bruna Araújo 6;Middle;Autônomo;7141,72;636;PR;1965-11-09;2023-03-05
+416;Michelle Cunha 10;Básico;Profissional Liberal;2524,51;323;SP;1995-03-01;2024-09-09
+417;Tatiana Pinto 6;Premium;CLT - Privado;22121,15;700;RO;1979-03-11;2021-02-18
+418;Rodrigo Batista 8;PJ;Profissional Liberal;31130,59;823;AL;1972-04-16;2020-07-10
+419;Natalia Campos 7;Middle;Servidor Público;4859,22;716;SP;1977-10-11;2023-07-05
+420;Cristina Mendes 8;Básico;CLT - Privado;1858,46;346;GO;1960-01-18;2021-03-13
+421;Leandro Monteiro 12;Premium;Empresário;15238,11;874;MG;1960-05-12;2023-11-25
+422;Larissa Moreira 4;Básico;Aposentado;2388,06;544;SP;1977-03-08;2020-07-01
+423;Vinicius Siqueira 10;Básico;Servidor Público;1626,7;453;SP;1994-09-11;2024-07-23
+424;Caio Rezende 13;Básico;Profissional Liberal;2985,88;373;SP;1985-04-07;2020-01-18
+425;Roberta Andrade 9;Básico;Aposentado;1702,38;409;SC;1966-10-16;2022-04-23
+426;Roberta Andrade 10;Básico;CLT - Privado;1173,38;351;SP;1965-07-10;2023-04-22
+427;Vinicius Siqueira 11;Middle;Aposentado;4572,52;585;RJ;1988-11-30;2020-06-21
+428;Luciana Barbosa 10;Básico;Empresário;2442,36;445;CE;1990-12-21;2020-02-24
+429;Gustavo Duarte 10;Básico;CLT - Privado;2035,5;560;SP;1977-07-28;2021-08-28
+430;Natalia Campos 8;Premium;CLT - Privado;23836,41;728;RJ;1988-08-15;2023-05-01
+431;Pedro Lima 7;Middle;Servidor Público;7934,41;631;SP;1998-08-12;2024-09-14
+432;Diego Ramos 6;Middle;Empresário;6414,71;745;RS;1994-07-22;2020-05-29
+433;Maria Santos 7;Básico;Servidor Público;1524,37;320;AL;1995-05-28;2022-03-26
+434;Anderson Dias 7;Middle;Profissional Liberal;5505,24;656;MG;1978-01-16;2020-06-17
+435;Henrique Peixoto 8;Middle;Empresário;3763,4;571;RJ;1982-12-08;2021-02-20
+436;Camila Almeida 8;Middle;Aposentado;5932,19;745;ES;1990-07-20;2023-08-10
+437;Pedro Lima 8;Middle;Aposentado;6649,79;611;SP;1963-11-13;2022-06-08
+438;Juliana Ferreira 6;Middle;Empresário;3275,14;720;DF;1993-03-22;2020-12-25
+439;Juliana Ferreira 7;Premium;CLT - Privado;30447,99;741;RS;1975-07-21;2022-12-07
+440;Carla Melo 4;Básico;Profissional Liberal;1518,49;490;SP;1995-01-14;2024-11-23
+441;Mariana Rocha 11;Básico;Servidor Público;2542,86;315;RJ;1979-04-05;2021-07-11
+442;Carla Melo 5;Premium;Profissional Liberal;39201,62;860;SP;1980-06-01;2022-11-12
+443;Vanessa Correia 9;Premium;Empresário;13340,2;740;RJ;1964-08-12;2023-03-21
+444;Leticia Farias 7;Básico;CLT - Privado;2481,56;301;SP;1998-09-16;2020-01-26
+445;Luciana Barbosa 11;Premium;Autônomo;20255,34;738;SP;1998-06-19;2020-03-13
+446;Claudia Lopes 9;Básico;Profissional Liberal;2481,33;514;SP;1971-02-19;2022-05-02
+447;Vinicius Siqueira 12;Middle;Servidor Público;5857,68;580;RS;2000-06-16;2020-04-17
+448;Patricia Carvalho 10;Middle;Empresário;7907,07;652;SP;1980-11-11;2024-11-08
+449;Alexandre Cardoso 8;Básico;Autônomo;1654,6;533;SP;1968-12-31;2021-08-20
+450;Diego Ramos 7;Básico;Profissional Liberal;2245,44;537;MG;1982-02-17;2024-05-01
+451;Isabela Neves 13;Middle;Empresário;6802,41;612;SP;1978-05-24;2020-02-18
+452;Rafael Gomes 7;Middle;Profissional Liberal;7197,87;552;PB;1960-01-24;2024-04-03
+453;Gustavo Duarte 11;Middle;Profissional Liberal;6636,08;576;SP;1970-09-07;2022-05-09
+454;Michelle Cunha 11;PJ;CLT - Privado;59815,67;623;SP;1970-05-20;2024-09-27
+455;Carla Melo 6;Middle;Autônomo;5292,29;741;SP;1964-04-14;2022-11-01
+456;Roberto Rodrigues 9;Básico;Aposentado;1149,66;331;MG;1965-11-11;2021-04-29
+457;Alexandre Cardoso 9;Middle;Autônomo;7630,21;650;GO;1992-12-26;2021-10-30
+458;Lucas Teixeira 14;Middle;CLT - Privado;3373,44;601;SP;1994-07-19;2023-04-12
+459;Paulo Costa 12;Middle;CLT - Privado;5247,83;630;MG;1984-01-15;2022-01-03
+460;Isabela Neves 14;Middle;Autônomo;5316,73;580;SP;1996-03-23;2023-11-06
+461;Cristina Mendes 9;Básico;Profissional Liberal;2206,6;410;MS;1974-09-14;2020-10-30
+462;Fernanda Pereira 8;Básico;Autônomo;1792,49;325;BA;1971-09-02;2024-08-06
+463;Patricia Carvalho 11;Premium;Aposentado;35347,24;842;DF;1971-03-17;2020-07-12
+464;Tatiana Pinto 7;Premium;CLT - Privado;11886,5;715;ES;1969-12-20;2020-09-24
+465;Ricardo Martins 7;Básico;Autônomo;2372,57;343;PR;1971-08-11;2024-07-22
+466;Pedro Lima 9;Premium;Servidor Público;14328,01;865;MG;1965-10-11;2020-07-07
+467;Larissa Moreira 5;Premium;Aposentado;9620,41;846;MG;1992-06-30;2022-03-19
+468;Michelle Cunha 12;Premium;Profissional Liberal;21653,25;790;SP;1968-05-24;2021-07-17
+469;Mariana Rocha 12;Middle;CLT - Privado;3173,25;708;SC;1989-01-13;2021-08-27
+470;Michelle Cunha 13;Middle;Empresário;5395,15;572;RJ;1966-02-26;2022-05-08
+471;Ricardo Martins 8;Básico;Empresário;1498,3;578;PE;1977-02-26;2024-05-20
+472;Sabrina Tavares 9;Middle;Empresário;6907,18;638;PA;1982-07-15;2021-10-20
+473;Eduardo Freitas 7;Middle;Servidor Público;4594,39;606;SP;1996-05-13;2024-05-13
+474;Mariana Rocha 13;Premium;Aposentado;24941,83;896;PR;1970-06-10;2020-11-22
+475;Paulo Costa 13;Middle;CLT - Privado;4332,64;738;SP;1969-11-03;2023-03-25
+476;Eduardo Freitas 8;Middle;CLT - Privado;3880,5;701;RJ;1993-02-09;2023-11-29
+477;Rodrigo Nunes 3;PJ;Servidor Público;59241,7;690;PB;1985-04-13;2020-10-18
+478;Diego Ramos 8;PJ;Aposentado;47948,72;644;RS;1964-01-18;2020-04-25
+479;Rafael Gomes 8;Básico;Servidor Público;2052,9;300;RJ;1987-07-19;2021-02-16
+480;Roberto Rodrigues 10;Middle;CLT - Privado;7593,9;632;SP;1966-08-17;2023-04-16
+481;Sabrina Tavares 10;PJ;Servidor Público;69253,66;820;MG;1963-04-03;2022-02-04
+482;Sabrina Tavares 11;PJ;Aposentado;51021,17;686;RJ;1966-02-13;2020-11-18
+483;Vinicius Siqueira 13;PJ;Profissional Liberal;77246,35;766;RJ;1991-09-21;2023-02-24
+484;Rodrigo Batista 9;Básico;Empresário;2573,98;414;BA;1996-07-14;2020-12-25
+485;Eduardo Freitas 9;Middle;Profissional Liberal;4472,59;595;DF;1991-06-28;2023-03-19
+486;Priscila Azevedo 7;Básico;Empresário;1064,77;462;AL;1987-06-04;2021-03-28
+487;Henrique Peixoto 9;Básico;Aposentado;1281,29;339;RJ;1974-05-01;2020-12-09
+488;Henrique Peixoto 10;Básico;Servidor Público;2643,32;471;MG;1971-11-24;2021-03-05
+489;Luciana Barbosa 12;Básico;Autônomo;1513,32;355;GO;1962-02-27;2022-03-01
+490;Daniel Cavalcanti 12;Básico;CLT - Privado;2769,1;552;AM;1975-10-03;2023-01-23
+491;Eduardo Freitas 10;Premium;Aposentado;33239,36;847;BA;1990-10-28;2021-04-06
+492;Marcos Nascimento 6;Middle;Servidor Público;4474,54;631;RJ;1964-09-11;2020-05-31
+493;Larissa Moreira 6;Middle;Aposentado;3804,52;569;PR;2000-04-14;2020-07-09
+494;Larissa Moreira 7;Básico;Empresário;2786,45;315;MG;1989-04-27;2020-12-03
+495;Bruno Machado 8;Básico;CLT - Privado;1107,11;469;SP;1968-07-09;2022-04-18
+496;Rodrigo Batista 10;Básico;Profissional Liberal;2080,25;444;RJ;1964-04-20;2020-04-11
+497;Priscila Azevedo 8;Básico;Aposentado;1307,18;484;SP;1963-12-06;2021-08-26
+498;Gustavo Duarte 12;Básico;Aposentado;1399,35;313;SP;1988-08-17;2021-08-20
+499;Fernanda Pereira 9;Middle;Servidor Público;4541,77;651;RS;2000-02-21;2023-09-15
+500;Fernando Ribeiro 6;Premium;Empresário;20400,87;794;AM;1976-07-27;2021-01-17

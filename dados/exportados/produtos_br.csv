@@ -1,0 +1,6 @@
+﻿id_produto;nome_produto;taxa_juros_mensal;prazo_maximo_meses;valor_minimo;valor_maximo
+CP;Crédito Pessoal;0,035;60;1000;50000
+FI;Financiamento Imobiliário;0,008;360;100000;1000000
+CV;CDC Veículo;0,015;60;20000;200000
+CC;Cartão de Crédito;0,045;12;500;15000
+CS;Crédito Consignado;0,018;96;2000;100000
